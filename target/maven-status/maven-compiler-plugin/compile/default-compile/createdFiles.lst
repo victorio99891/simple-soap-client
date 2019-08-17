@@ -1,0 +1,11 @@
+pl\wiktor\first_soap_example\GetUserResponse.class
+pl\wiktor\first_soap_example\AddUserRequest.class
+pl\wiktor\first_soap_example\GetUserRequest.class
+pl\wiktor\first_soap_example\package-info.class
+pl\wiktor\client\SoapClient.class
+pl\wiktor\first_soap_example\UserServicePortService.class
+pl\wiktor\first_soap_example\User.class
+pl\wiktor\model\UserModel.class
+pl\wiktor\first_soap_example\AddUserResponse.class
+pl\wiktor\first_soap_example\UserServicePort.class
+pl\wiktor\first_soap_example\ObjectFactory.class
